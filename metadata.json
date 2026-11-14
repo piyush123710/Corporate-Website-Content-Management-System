@@ -1,0 +1,8 @@
+{
+  "name": "studiowebsite.id",
+  "description": "Corporate Website Content Management System for studiowebsite.id with AEM-inspired template authoring, responsive breakpoint preview, image asset optimization, and dynamic API rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
